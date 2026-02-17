@@ -1,2 +1,2 @@
-Hello mista git lelouch
+Hello mista git
 Learning mista Git basics ulala
